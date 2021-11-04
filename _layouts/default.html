@@ -19,6 +19,16 @@
 		<li><a href="/past/organizations.html">My Past Organizations</a></li>
           </nav>
       {{ content }}
+	    
+<style>
+	nav ul {
+		display: flex;
+		list-style: none;
+	}
+	nav ul li {
+		margin-right: 15px;
+	}
+</style>
 
       {% if site.github.private != true and site.github.license %}
       <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
