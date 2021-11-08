@@ -1,10 +1,10 @@
 ---
 layout: post
-title: About Me
+title: Lab Process
 ---
 
-This is my **first post**.
-<li>Posted on: 11/04/2021</li>
+This is my **second post**.
+<li>Posted on: 11/08/2021</li>
 <li>Posted by: Aggie '23</li>
 <li>Major: English</li>
 <li>Classification: Junior</li>
