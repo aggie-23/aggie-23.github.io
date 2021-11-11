@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Lab Process
+categories:
+- labs
 ---
 
 This is my **second post**.
